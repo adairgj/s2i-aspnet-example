@@ -1,0 +1,3 @@
+HTTP_PROXY=http://us_proxy_indy.xh1.lilly.com:9000/
+HTTPS_PROXY=https://us_proxy_indy.xh1.lilly.com:9000/
+NO_PROXY=paasmaster-poc.am.lilly.com
